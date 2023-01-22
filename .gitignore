@@ -25,9 +25,12 @@
 *.synctex.gz
 /figures-compiled
 main.synctex
-main.fdb_latexmk
-main.fls
 main.auxlock
 main.run.xml
 main.thm
+main.fls
+main.fdb_latexmk
 thesis.tps
+/.idea/
+.vscode
+.editorconfig
